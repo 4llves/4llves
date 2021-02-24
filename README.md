@@ -8,7 +8,7 @@
 <br/> :department_store: &nbsp; Trabalho como Assistente Administrativo no setor público
 <br/> :mortar_board: &nbsp; Atualmente estudando: HTML, CSS, JS e Node.js
 <br/> :mortar_board: &nbsp; Sobre mim: Amo Tecnologia, Games WOW, CS:GO, Animes e Mangás
-<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JhonataBarbalhoAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonata-barbalho-alves-7341a7124/)]
+
 
 
 
