@@ -7,7 +7,7 @@
 
 <br/> :department_store: &nbsp; Trabalho como Assistente Administrativo no setor público
 <br/> :mortar_board: &nbsp; Atualmente estudando: HTML, CSS, JS e Node.js
-<br/> 🙋‍♂️ &nbsp; Sobre mim: Amo Tecnologia, Games WOW, CS:GO, Animes e Mangás
+<br/> 🙋‍♂️ &nbsp; Sobre mim: Amo Tecnologia | Games WOW, CS:GO | Animes e Mangás
 
 
 
