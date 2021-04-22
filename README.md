@@ -6,7 +6,7 @@
 :heart: &nbsp; Apaixonado por facilitar/agilizar trabalhos utilizando a programação.
 
 <br/> :department_store: &nbsp; Trabalho como Assistente Administrativo no setor público
-<br/> :mortar_board: &nbsp; Atualmente estudando: HTML, CSS, JS e Node.js
+<br/> :mortar_board: &nbsp; Atualmente estudando: React pela https://app.rocketseat.com.br/me/4llves
 <br/> 🙋‍♂️ &nbsp; Sobre mim: Gosto muito de Tecnologia | Games WOW, CS:GO | Animes e Mangás
 
 
