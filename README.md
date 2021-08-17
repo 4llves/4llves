@@ -14,11 +14,11 @@
 <img hight="250" width="350" alt="GIF" align="right" src="https://github.com/4llves/4llves/blob/main/deku_anoted.gif">
 
 - I am currently working as an administrative assistant.📑
-- Graduated in IT - Systems Analysis and Development by University Estácio de Sá.
+- Graduated in IT - Systems Analysis and Development by University Estácio de Sá.🏫
 - Studying to move to a developer career. 👨‍💻
 
 ### - Hobbies:
-- Gamer / Watching Anime and Read Manga / Play Guitar
+- Gamer 🎮 / Watching Anime 📺 and Read Manga 📖 / Play Guitar 🎸
 
 </br>
 
