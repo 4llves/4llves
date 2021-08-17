@@ -1,6 +1,6 @@
 # Welcome 🥳
 <div align="center">
-  <img hight="600" width="1000" alt="GIF" align="center" src="https://37.media.tumblr.com/2f1ab28c7ee70e09b6b4650bcc978638/tumblr_n2h1yxY0ww1tvpbr5o1_500.gif">  
+  <img hight="600" width="1000" alt="GIF" align="center" src="https://github.com/4llves/4llves/blob/main/grimm.gif">  
 </div>
 
 </br>
@@ -11,7 +11,7 @@
 
 ### - My name is Jhonata Barbalho Alves 🐱‍👤, I'm 24 years.
 
-<img hight="250" width="350" alt="GIF" align="right" src="https://animecrazies.com.br/wp-content/uploads/2020/10/avaliar-animes.gif">
+<img hight="250" width="350" alt="GIF" align="right" src="https://github.com/4llves/4llves/blob/main/deku_anoted.gif">
 
 - I am currently working as an administrative assistant.📑
 - Graduated in IT - Systems Analysis and Development by University Estácio de Sá.
@@ -57,7 +57,7 @@
 </br>
 
 <p align="left">  
-  <img hight="400" width="600" alt="GIF" align="center" src="https://qph.fs.quoracdn.net/main-qimg-3c5cfa1d4da929ce3260fefbdc148ff2">  
+  <img hight="400" width="600" alt="GIF" align="center" src="https://github.com/4llves/4llves/blob/main/talk_to_me.gif">  
 </p>
 
 
