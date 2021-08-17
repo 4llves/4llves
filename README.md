@@ -1,31 +1,63 @@
-<img width="auto" src="https://cdn.discordapp.com/attachments/694609874197151754/813851700011335730/NLW04_pack_divulgacao_-_Github.png">
+# Welcome 🥳
+<div align="center">
+  <img hight="600" width="1000" alt="GIF" align="center" src="https://37.media.tumblr.com/2f1ab28c7ee70e09b6b4650bcc978638/tumblr_n2h1yxY0ww1tvpbr5o1_500.gif">  
+</div>
 
-# Jhonata Barbalho Alves
+</br>
+</br>
 
-##Olá
-:heart: &nbsp; Apaixonado por facilitar/agilizar trabalhos utilizando a programação.
-
-<br/> :department_store: &nbsp; Trabalho como Assistente Administrativo no setor público
-<br/> :mortar_board: &nbsp; Atualmente estudando: React pela https://app.rocketseat.com.br/me/4llves
-<br/> 🙋‍♂️ &nbsp; Sobre mim: Gosto muito de Tecnologia | Games WOW, CS:GO | Animes e Mangás
-
+# About ME 👦:
 
 
+### - My name is Jhonata Barbalho Alves 🐱‍👤, I'm 24 years.
 
+<img hight="250" width="350" alt="GIF" align="right" src="https://animecrazies.com.br/wp-content/uploads/2020/10/avaliar-animes.gif">
 
+- I am currently working as an administrative assistant.📑
+- Graduated in IT - Systems Analysis and Development by University Estácio de Sá.
+- Studying to move to a developer career. 👨‍💻
 
+### - Hobbies:
+- Gamer / Watching Anime and Read Manga / Play Guitar
 
-<!--
-**4llves/4llves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+# Languages & Tools 👨‍💻 🛠:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### - Experience With:
+
+<p align="left">  
+  <img align="center" alt="4llves-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="4llves-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="4llves-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="4llves-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> 
+  <img align="center" alt="4llves-PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+</p>
+
+### - Learning :
+
+<p align="left">  
+  <img align="center" alt="4llves-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="4llves-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
+</p>
+
+</br>
+
+# Contact Me :
+
+</br>
+
+<div align="center">
+  <a href="https://instagram.com/4llves_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/4llves" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:jhonatab4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jhonata-barbalho-alves-7341a7124" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+</br>
+
+<div align="center">
+  <a href="https://github.com/4llves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4llves&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4llves&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
