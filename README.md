@@ -36,7 +36,7 @@
 
 ### - Learning :
 
-<p align="left">  
+<p align="left"> 
   <img align="center" alt="4llves-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="4llves-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
 </p>
@@ -45,24 +45,22 @@
 
 # Contact Me :
 
+<div align="center">
 </br>
 
-<div align="center">
+<img align="center" hight="400" width="500" alt="GIF" align="center" src="https://github.com/4llves/4llves/blob/main/talk_to_me.gif">
+
+<p align="center">
+  
   <a href="https://instagram.com/4llves_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/4llves" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jhonatab4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jhonata-barbalho-alves-7341a7124" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 	<a href="https://www.twitch.tv/4llves" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>    <a href = "mailto:jhonatab4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jhonata-barbalho-alves-7341a7124" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+  
+</p>
 </div>
 
-</br>
+##
 
-<p align="left">  
-  <img hight="400" width="600" alt="GIF" align="center" src="https://github.com/4llves/4llves/blob/main/talk_to_me.gif">  
-</p>
-
-
-
-</br>
 <div align="center">
   <a href="https://github.com/4llves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4llves&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
