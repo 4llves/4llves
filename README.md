@@ -14,7 +14,7 @@
 <img hight="250" width="350" alt="GIF" align="right" src="https://github.com/4llves/4llves/blob/main/deku_anoted.gif">
 
 - I am currently working as an administrative assistant.📑
-- Graduated in IT - Systems Analysis and Development by University Estácio de Sá.🏫
+- Graduated in TI - Systems Analysis and Development by University Estácio de Sá.🏫
 - Studying to move to a developer career. 👨‍💻
 
 ### - Hobbies:
