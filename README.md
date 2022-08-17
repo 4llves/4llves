@@ -1,6 +1,6 @@
 # Welcome 🥳
 <div align="center">
-  <img hight="600" width="400" alt="GIF" align="center" src="https://github.com/4llves/4llves/blob/main/grimm.gif">  
+  <img hight="800" width="600" alt="GIF" align="center" src="https://github.com/4llves/4llves/blob/main/grimm.gif">  
 </div>
 
 </br>
