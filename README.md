@@ -1,21 +1,17 @@
-# Welcome 🥳
 <div align="center">
-  <img hight="800" width="600" alt="GIF" align="center" src="https://github.com/4llves/4llves/blob/main/grimm.gif">  
+  <img hight="100px" width="100%" max-width="100%" alt="GIF" align="center" src="https://github.com/4llves/4llves/blob/main/welcome.gif">  
 </div>
 
-</br>
 </br>
 
 # About ME 👦:
 
+### - My name is Jhonata Alves 🐱‍👤, I'm 27 years.
 
-### - My name is Jhonata Barbalho Alves 🐱‍👤, I'm 27 years.
+<img hight="85" width="185" alt="GIF" align="right" src="https://github.com/4llves/4llves/blob/main/duck.gif">
 
-<img hight="250" width="350" alt="GIF" align="right" src="https://github.com/4llves/4llves/blob/main/deku_anoted.gif">
-
-- I am currently working as an administrative assistant.📑
-- Graduated in TI - Systems Analysis and Development by University Estácio de Sá.🏫
-- Studying to move to a developer career. 👨‍💻
+- Graduated in TI - Systems Analysis and Development by University Estácio de Sá. 🏫
+- I live in the interior of Pará.
 
 ### - Hobbies:
 - Gamer 🎮 / Watching Anime 📺 and Read Manga 📖 / Play Guitar 🎸
@@ -24,23 +20,37 @@
 
 # Languages & Tools 👨‍💻 🛠:
 
-<img hight="185" width="285" alt="GIF" align="right" src="https://github.com/4llves/4llves/blob/main/tools_skill.gif">
-
 ### - Experience With:
 
 <p align="left">  
-  <img align="center" alt="4llves-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="4llves-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="4llves-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="4llves-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> 
-  <img align="center" alt="4llves-PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="4llves-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">  
+  <img align="center" alt="4llves-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" alt="4llves-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="4llves-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="4llves-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
+  <img align="center" alt="4llves-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="4llves-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="4llves-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="4llves-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="4llves-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="4llves-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="4llves-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
+  <img align="center" alt="4llves-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+  <img align="center" alt="4llves-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+  <img align="center" alt="4llves-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="4llves-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">
+  <img align="center" alt="4llves-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
 </p>
+
+</br>
 
 ### - Learning :
 
 <p align="left"> 
-  <img align="center" alt="4llves-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="4llves-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
+ 
+<img align="center" alt="4llves-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+<img align="center" alt="4llves-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
+<img align="center" alt="4llves-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg">
 </p>
 
 </br>
@@ -50,14 +60,15 @@
 <div align="center">
 </br>
 
-<img align="center" hight="400" width="500" alt="GIF" align="center" src="https://github.com/4llves/4llves/blob/main/talk_to_me.gif">
-
 <p align="center">
   
   <a href="https://instagram.com/4llves_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/4llves" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>    <a href = "mailto:jhonatab4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/4llves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
-  
+
+  <img align="bottom" hight="50" width="150" alt="GIF" src="https://github.com/4llves/4llves/blob/main/pikachu.gif">
+
+  </br>
 </p>
 </div>
 
